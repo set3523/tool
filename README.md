@@ -11,6 +11,7 @@
 | **`Partial_Content_Merger.py`** | 분할된 데이터나 파셜(Partial) 콘텐츠 파일을 하나로 병합하는 도구 |
 | **`remove_transparency.py`** | PNG 등 투명 채널(Alpha)이 포함된 이미지에서 투명도를 제거하고 단색 배경으로 변환하는 스크립트 |
 | **`xordecrpyter.py`** | XOR 알고리즘 기반으로 암호화된 파일 또는 데이터를 복호화(Decryption)하는 유틸리티 |
+| **`Quantum ESPRESSO`** | 등 물리/재료 시뮬레이션 결과(.out)를 파싱하여 ASE 3D 구조로 변환하는 도구 |
 
 ---
 
